@@ -2,9 +2,9 @@ import InnerPageContainer from "@/components/common/InnerPageContainer";
 
 export default function Page() {
     return (
-      <InnerPageContainer title="Contact Us">
+      <InnerPageContainer title="Entre em Contato">
             <p>
-            We are reachable at - info@landingpage.com
+            Estudo em Foco - estudo.em.foco.ofc@.com
             </p>
             
       </InnerPageContainer>
